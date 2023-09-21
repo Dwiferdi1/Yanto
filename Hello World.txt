@@ -1,1 +1,5 @@
 Helloworld!
+angka = [0] * (21)
+panjang = 1
+maksimal = 1
+print("apkmobilelegend")
